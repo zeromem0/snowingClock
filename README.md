@@ -11,4 +11,3 @@
 
 // tested on M5Stack Core2 ESP32 IoT Development Kit for AWS IoT EduKit SKU: K010-AWS
 
-// picture on https://twitter.com/zeromem0/status/1592289291560013832
